@@ -1,5 +1,7 @@
+## Natural Language Processing with NLTK and Python
+
 ### Simple Text Processing with NLTK :
-Covers a variety of text processing tasks such as Words, Sentences, Parts of Speech tagging, Stop Words, Stemming, Lemmatization 
+Covers a variety of text processing tasks such as extracting Words, Sentences, Parts of Speech tagging, Stop Words, Stemming, Lemmatization 
 and Regex parsing of documents from the NLTK corpus.
 
 ### Sentiment Analysis using NLTK and GB Classifier:
